@@ -1,0 +1,7 @@
+
+Gsquid:S1481"0Remove this unused "restPlayer1" local variable.(‘¡¡•
+lsquid:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(„ÈêÖùÿÿÿÿ8¡Ø¢¨¶-
+esquid:HiddenFieldCheck">Rename "restPlayer" which hides the field declared at line 10.(í†ðõüÿÿÿÿ
+Ksquid:S1481"/Remove this unused "restPlayer" local variable.(í†ðõüÿÿÿÿ
+Zsquid:S1854">Remove this useless assignment to local variable "restPlayer".(í†ðõüÿÿÿÿ
+Vsquid:S1854"?Remove this useless assignment to local variable "restPlayer1".(‘¡¡•

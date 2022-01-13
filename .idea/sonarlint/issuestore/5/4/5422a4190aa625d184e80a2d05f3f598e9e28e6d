@@ -1,0 +1,9 @@
+
+tsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Ò Á™8¡ÀÕÔ¶-
+tsquid:S20683"V'password' detected in this expression, review this potentially hard-coded credential.(şÜØª8¡ÀÕÔ¶-
+tsquid:S2068@"V'password' detected in this expression, review this potentially hard-coded credential.(Ò Á™8¡ÀÕÔ¶-
+qsquid:S00116"MRename this field "LC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş›Ø×üÿÿÿÿ8¡ÀÕÔ¶-
+dsquid:S1192"FDefine a constant instead of duplicating this literal "admin" 4 times.(Ò Á™8¡ÀÕÔ¶-
+ysquid:S2068M"V'password' detected in this expression, review this potentially hard-coded credential.(ñ´”Şúÿÿÿÿ8¡ÀÕÔ¶-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÚÜ¤ùÿÿÿÿ8¡ÀÕÔ¶-
+tsquid:S2068&"V'password' detected in this expression, review this potentially hard-coded credential.(Ò Á™8¡ÀÕÔ¶-

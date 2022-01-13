@@ -1,0 +1,4 @@
+
+Fsquid:S1481"*Remove this unused "round" local variable.(ê“’ƒüÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "round".(ê“’ƒüÿÿÿÿ
+`squid:HiddenFieldCheck"9Rename "round" which hides the field declared at line 11.(ê“’ƒüÿÿÿÿ

@@ -1,0 +1,5 @@
+
+csquid:HiddenFieldCheck":Rename "player" which hides the field declared at line 11.(‰öÏ8°ĞÈ¨¶-
+Isquid:S1481"+Remove this unused "player" local variable.(‰öÏ8°ĞÈ¨¶-
+]squid:S1854":Remove this useless assignment to local variable "player".(îÖ“ıÿÿÿÿ8°ĞÈ¨¶-
+Wsquid:S1854":Remove this useless assignment to local variable "player".(™£ÊM8°ĞÈ¨¶-

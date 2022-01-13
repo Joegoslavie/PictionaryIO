@@ -1,0 +1,6 @@
+
+fsquid:S11921"HDefine a constant instead of duplicating this literal "player2" 6 times.(Œ¡ßÊ8Å—³Ó¶-
+lsquid:S11920"IDefine a constant instead of duplicating this literal "player1" 13 times.(†îÛÅþÿÿÿÿ8Ø¶ŽÒ¶-
+lsquid:S1192-"IDefine a constant instead of duplicating this literal "username" 3 times.(½ƒ©ñùÿÿÿÿ8Ø¶ŽÒ¶-
+osquid:S1192."LDefine a constant instead of duplicating this literal "LobbyShell" 13 times.(ÉäÕæÿÿÿÿÿ8¶™¥Ò¶-
+jsquid:UselessImportCheck"?Remove this unused import 'webSocketMessages.AccountDataEvent'.(‰†ñå8‘©›Ò¶-

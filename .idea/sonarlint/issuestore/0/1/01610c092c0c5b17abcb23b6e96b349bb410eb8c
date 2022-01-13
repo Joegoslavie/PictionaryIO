@@ -1,0 +1,14 @@
+
+¤squid:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐÈŒ¤úÿÿÿÿ8È¹‚Ñ¶-
+¤squid:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï³ÆÔÿÿÿÿÿ8È¹‚Ñ¶-
+Ÿsquid:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸ö¡£8È¹‚Ñ¶-
+Isquid:S1168<"+Return an empty collection instead of null.(¥¹ï8È¹‚Ñ¶-
+Ÿsquid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îÑ“à8È¹‚Ñ¶-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»üüóúÿÿÿÿ8È¹‚Ñ¶-
+¤squid:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Íº¹†ÿÿÿÿÿ8È¹‚Ñ¶-
+Isquid:S1168("+Return an empty collection instead of null.(¥¹ï8È¹‚Ñ¶-
+¤squid:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÔ«÷þÿÿÿÿ8È¹‚Ñ¶-
+Jsquid:S1168 "+Return an empty collection instead of null.(¥¹ï8È¹‚Ñ¶-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×³½†ýÿÿÿÿ8È¹‚Ñ¶-
+žsquid:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äª•J8È¹‚Ñ¶-
+§%squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(»üüóúÿÿÿÿ8È¹‚Ñ¶-

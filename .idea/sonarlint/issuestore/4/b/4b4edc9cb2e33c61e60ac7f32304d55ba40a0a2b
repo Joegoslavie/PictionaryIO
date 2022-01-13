@@ -1,0 +1,6 @@
+
+Šsquid:S1319"sThe type of the "newWords" object should be an interface such as "List" rather than the implementation "ArrayList".(£€¬Í
+‚"squid:ClassVariableVisibilityCheck"TMake newWords a static final constant or non-public and provide accessors if needed.(£€¬Í
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Øû“
+squid:S1319"sThe type of the "newWords" object should be an interface such as "List" rather than the implementation "ArrayList".(’‚äûüÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"VMake chosenWord a static final constant or non-public and provide accessors if needed.(èÊĞù

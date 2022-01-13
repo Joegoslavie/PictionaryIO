@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #4240C4;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.LoginController">
+   <children>
+      <TextField fx:id="tfUsername" layoutX="183.0" layoutY="175.0" prefHeight="25.0" prefWidth="242.0" promptText="Username">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </TextField>
+      <PasswordField fx:id="tfPassword" layoutX="183.0" layoutY="209.0" prefHeight="25.0" prefWidth="242.0" promptText="Password">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </PasswordField>
+      <Button fx:id="btnRegister" layoutX="183.0" layoutY="275.0" mnemonicParsing="false" onAction="#btnRegisterPressed" prefHeight="25.0" prefWidth="242.0" style="-fx-background-color: #5bc0de;" text="Register" textFill="WHITE" />
+      <Button fx:id="btnLogin" layoutX="183.0" layoutY="241.0" mnemonicParsing="false" onAction="#btnLoginPressed" prefHeight="25.0" prefWidth="242.0" style="-fx-background-color: #5bc0de;" text="Login" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="110.0" fitWidth="130.0" layoutX="235.0" layoutY="47.0">
+         <image>
+            <Image url="@ProftaakIconTransparent.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>

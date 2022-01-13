@@ -1,0 +1,13 @@
+
+@squid:S1905.")Remove this unnecessary cast to "Parent".(°À®©
+Isquid:S1172d"2Remove this unused method parameter "actionEvent".(Šİ­
+…squid:S1845d"nRename method "btnRegister" to prevent any misunderstanding/clash with field "btnRegister" defined on line 26.(Šİ­
+Dsquid:S1604)"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"TMake btnLogin a static final constant or non-public and provide accessors if needed.(’ÎöØùÿÿÿÿ
+Isquid:S1172^"2Remove this unused method parameter "actionEvent".(êÀÖ§
+Š"squid:ClassVariableVisibilityCheck"WMake btnRegister a static final constant or non-public and provide accessors if needed.(°›Ù¤üÿÿÿÿ
+@squid:S1905j")Remove this unnecessary cast to "Parent".(°À®©
+squid:S1845^"hRename method "btnLogin" to prevent any misunderstanding/clash with field "btnLogin" defined on line 27.(êÀÖ§
+‰"squid:ClassVariableVisibilityCheck"VMake tfPassword a static final constant or non-public and provide accessors if needed.(ûêãÀıÿÿÿÿ
+Dsquid:S1604e"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"VMake tfUsername a static final constant or non-public and provide accessors if needed.(Ëˆ­

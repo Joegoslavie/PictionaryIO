@@ -1,0 +1,15 @@
+
+Jsquid:S1068#".Remove this unused "showAlerts" private field.(èÎ¡Íşÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"XMake btnStartGame a static final constant or non-public and provide accessors if needed.(Í§íó
+usquid:S1450#"YRemove the "showAlerts" field and declare it as a local variable in the relevant methods.(èÎ¡Íşÿÿÿÿ
+‹"squid:ClassVariableVisibilityCheck"XMake lblLobbyName a static final constant or non-public and provide accessors if needed.(Èšñéÿÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck"bMake lblRoomTokenTextHolder a static final constant or non-public and provide accessors if needed.(Ü­è»ÿÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake lvPlayers a static final constant or non-public and provide accessors if needed.(Å…üÿşÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck!"WMake tfRoomToken a static final constant or non-public and provide accessors if needed.(äÿº‡
+"squid:ClassVariableVisibilityCheck"\Make lblPlayersJoined a static final constant or non-public and provide accessors if needed.(†Ñ—÷ÿÿÿÿÿ
+esquid:S1126c"BReplace this if-then-else statement by a single method invocation.(åµ°²ÿÿÿÿÿ8¶õÔ¶-
+“"squid:ClassVariableVisibilityCheck "YMake btnLeaveLobby a static final constant or non-public and provide accessors if needed.(÷ĞÛ©ùÿÿÿÿ8¶õÔ¶-
+Usquid:S2589I"7Remove this expression which always evaluates to "true"(Ô¸Ó„8¶õÔ¶-
+msquid:S00100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Şê8¶õÔ¶-
+Osquid:S1172|"2Remove this unused method parameter "actionEvent".(Å¥Â_8¶õÔ¶-
+Psquid:S1172’"2Remove this unused method parameter "actionEvent".(–Şê8¶õÔ¶-

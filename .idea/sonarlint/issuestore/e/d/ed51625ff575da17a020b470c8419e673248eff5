@@ -1,0 +1,5 @@
+
+Rsquid:S1854";Remove this useless assignment to local variable "message".(ÏîÌµ
+Wsquid:S1854";Remove this useless assignment to local variable "message".(±…¹©øÿÿÿÿ
+`squid:S1192"IDefine a constant instead of duplicating this literal "username" 4 times.(½µıï
+Csquid:S1481",Remove this unused "message" local variable.(ëÆ¤í

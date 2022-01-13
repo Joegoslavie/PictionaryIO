@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="696.0" prefWidth="1311.0" style="-fx-background-color: #4240C4;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.PlayerCanvasController">
+   <children>
+      <TitledPane collapsible="false" layoutX="185.0" layoutY="14.0" prefHeight="593.0" prefWidth="905.0" text="Drawing">
+         <content>
+            <Canvas fx:id="canvasMain" height="556.0" width="890.0" />
+         </content>
+      </TitledPane>
+      <TitledPane animated="false" collapsible="false" layoutX="11.0" layoutY="201.0" prefHeight="372.0" prefWidth="165.0" text="Leaderboard">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="342.0" prefWidth="164.0">
+               <children>
+                  <ListView fx:id="lvLeaderboard" layoutX="5.0" layoutY="5.0" prefHeight="335.0" prefWidth="154.0" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+      <TitledPane animated="false" collapsible="false" layoutX="11.0" layoutY="14.0" prefHeight="181.0" prefWidth="165.0" text="Game information">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="144.0" prefWidth="163.0">
+               <children>
+                  <TextField fx:id="txtDrawer" editable="false" layoutX="6.0" layoutY="71.0" prefHeight="25.0" prefWidth="150.0" />
+                  <Label layoutX="7.0" layoutY="54.0" text="Current drawer" />
+                  <Label layoutX="7.0" layoutY="105.0" text="Time left" />
+                  <TextField fx:id="txtTimeLeft" editable="false" layoutX="7.0" layoutY="122.0" />
+                  <Label layoutX="7.0" layoutY="6.0" text="Selected word">
+                     <font>
+                        <Font name="Comic Sans MS" size="12.0" />
+                     </font></Label>
+                  <TextField fx:id="txtSelectedWord" editable="false" layoutX="6.0" layoutY="23.0" />
+               </children></AnchorPane>
+        </content>
+      </TitledPane>
+      <Button fx:id="btnLeave" layoutX="10.0" layoutY="581.0" mnemonicParsing="false" onAction="#btnLeaveClick" prefHeight="25.0" prefWidth="165.0" style="-fx-background-color: #5bc0de;" text="Leave" textFill="WHITE" />
+
+      <ColorPicker fx:id="cpDrawingColor" layoutX="186.0" layoutY="615.0" onAction="#onColorChange" prefHeight="73.0" prefWidth="82.0" style="-fx-color-label-visible: false; -fx-color-rect-width: 40px; -fx-color-rect-height: 40px;" />
+      <Slider fx:id="sldLineWidth" layoutX="281.0" layoutY="617.0" max="25.0" min="2.0" onMouseReleased="#onLineWidthChange" prefHeight="75.0" prefWidth="223.0" showTickMarks="true" snapToTicks="true" />
+      <Button fx:id="btnClear" layoutX="515.0" layoutY="615.0" mnemonicParsing="false" onAction="#clearCanvas" prefHeight="73.0" prefWidth="154.0" style="-fx-background-color: #5bc0de;" text="Clear" textFill="WHITE" />
+      <Label layoutX="281.0" layoutY="623.0" text="Line width:" textFill="WHITE" />
+      <TitledPane animated="false" collapsible="false" layoutX="1095.0" layoutY="14.0" prefHeight="463.0" prefWidth="206.0" text="Chat">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="431.0" prefWidth="179.0">
+               <children>
+                  <ListView fx:id="lbChat" layoutX="3.0" layoutY="5.0" prefHeight="427.0" prefWidth="195.0" />
+               </children>
+            </AnchorPane>
+        </content>
+      </TitledPane>
+      <TitledPane animated="false" collapsible="false" layoutX="1095.0" layoutY="483.0" prefHeight="124.0" prefWidth="206.0" text="Send message">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <TextField fx:id="tbChatMessage" layoutX="4.0" layoutY="12.0" onAction="#onEnterPressed" onKeyTyped="#onKeyTyped" prefHeight="75.0" prefWidth="196.0" promptText="Press enter to chat" />
+               </children>
+            </AnchorPane>
+        </content>
+      </TitledPane>
+      <Button fx:id="btnWord1" layoutX="706.0" layoutY="614.0" mnemonicParsing="false" onAction="#word1Click" prefHeight="73.0" prefWidth="121.0" text="Button" visible="false" />
+      <Button fx:id="btnWord2" layoutX="837.0" layoutY="615.0" mnemonicParsing="false" onAction="#word2Click" prefHeight="73.0" prefWidth="121.0" text="Button" visible="false" />
+      <Button fx:id="btnWord3" layoutX="969.0" layoutY="616.0" mnemonicParsing="false" onAction="#word3Click" prefHeight="73.0" prefWidth="121.0" text="Button" visible="false" />
+   </children>
+</Pane>

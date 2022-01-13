@@ -1,0 +1,9 @@
+
+]squid:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(£û¢í
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(›ç¨É
+`squid:S2147""DCombine this catch with the one at line 32, which has the same body.(ä±Žžüÿÿÿÿ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(çðÔÛþÿÿÿÿ
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(›ç¨É
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š²Åà

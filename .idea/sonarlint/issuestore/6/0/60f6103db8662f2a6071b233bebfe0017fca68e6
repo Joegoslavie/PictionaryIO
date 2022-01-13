@@ -1,0 +1,5 @@
+
+osquid:UselessImportCheck"?Remove this unused import 'java.security.AccessControlContext'.(Š¼è¼üÿÿÿÿ8É›¬¨¶-
+bsquid:S1854"DRemove this useless assignment to local variable "accountDataEvent".(ù÷·¿8²Û­¨¶-
+Xsquid:S1481"5Remove this unused "accountDataEvent" local variable.(«¶©æúÿÿÿÿ8É›¬¨¶-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Øû“

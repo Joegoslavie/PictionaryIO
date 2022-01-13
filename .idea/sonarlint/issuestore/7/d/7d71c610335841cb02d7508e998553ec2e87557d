@@ -1,0 +1,11 @@
+
+§squid:S1186D"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿù‡Ë˛ˇˇˇˇ8 ÿ∆–∂-
+ûsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(≈Ωâ=8 ÿ∆–∂-
+üsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö©ﬂí8 ÿ∆–∂-
+üsquid:S1186:"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖÁ∫•8 ÿ∆–∂-
+üsquid:S1186N"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éû£Ò8 ÿ∆–∂-
+üsquid:S1186I"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÓéÂµ8 ÿ∆–∂-
+•%squid:RedundantThrowsDeclarationCheckN"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(Éû£Ò8 ÿ∆–∂-
+•%squid:RedundantThrowsDeclarationCheckI"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ÓéÂµ8 ÿ∆–∂-
+§squid:S1186+"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(∫È÷û˚ˇˇˇˇ8 ÿ∆–∂-
+§squid:S11865"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ııŒ·˙ˇˇˇˇ8 ÿ∆–∂-

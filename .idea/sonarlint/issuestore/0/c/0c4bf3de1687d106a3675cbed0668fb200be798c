@@ -1,0 +1,6 @@
+
+“squid:S1319‰"oThe type of the "payload" object should be an interface such as "Map" rather than the implementation "HashMap".(Ç»Ã¤þÿÿÿÿ8–ëÞÐ¶-
+dsquid:S3457M"AFormat specifiers should be used instead of string concatenation.(ÏÐÐüùÿÿÿÿ8¢•ÒÐ¶-
+dsquid:S3457n"AFormat specifiers should be used instead of string concatenation.(ÏÐÐüùÿÿÿÿ8¢•ÒÐ¶-
+˜squid:S1319T"uThe type of the "accountParams" object should be an interface such as "Map" rather than the implementation "HashMap".(ôôšŠúÿÿÿÿ8—ÀÞÐ¶-
+U"squid:SwitchLastCaseIsDefaultCheckd""Add a default case to this switch.(äÆã÷ûÿÿÿÿ

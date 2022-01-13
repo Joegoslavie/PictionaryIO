@@ -1,0 +1,39 @@
+
+Tsquid:S1854C"6Remove this useless assignment to local variable "gc".(˜­Š8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck("VMake canvasMain a static final constant or non-public and provide accessors if needed.(Å©ØÔüÿÿÿÿ8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck""UMake txtDrawer a static final constant or non-public and provide accessors if needed.(ÄÆÎÚúÿÿÿÿ8ò£¯Ï¶-
+Psquid:S1172¬"1Remove this unused method parameter "mouseEvent".(éú’8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck/"TMake btnWord3 a static final constant or non-public and provide accessors if needed.(È—ÿ¬ûÿÿÿÿ8ò£¯Ï¶-
+Qsquid:S1172í"2Remove this unused method parameter "actionEvent".(Î½à8ò£¯Ï¶-
+Ssquid:S1172”"/Remove this unused method parameter "keyEvent".(­ˆÕ¹ûÿÿÿÿ8ò£¯Ï¶-
+Lsquid:S1604ó"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8ò£¯Ï¶-
+“"squid:ClassVariableVisibilityCheck1"^Make leaderboardEntries a static final constant or non-public and provide accessors if needed.(ú€¸Ö8ò£¯Ï¶-
+Nsquid:EmptyStatementUsageCheckŒ"Remove this empty statement.(»ñ¶ñ8ò£¯Ï¶-
+Œ"squid:ClassVariableVisibilityCheck#"WMake txtTimeLeft a static final constant or non-public and provide accessors if needed.(¬ªº•8ò£¯Ï¶-
+“"squid:ClassVariableVisibilityCheck,"YMake lvLeaderboard a static final constant or non-public and provide accessors if needed.(ñ˜ªÖøÿÿÿÿ8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck+"TMake btnClear a static final constant or non-public and provide accessors if needed.(¸¹„üÿÿÿÿ8ò£¯Ï¶-
+Qsquid:S1172Û"2Remove this unused method parameter "actionEvent".(šÑ¬ş8ò£¯Ï¶-
+Qsquid:S1172¨"2Remove this unused method parameter "actionEvent".(ûäç8ò£¯Ï¶-
+isquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(Ì˜‰·8ò£¯Ï¶-
+Qsquid:S1068=".Remove this unused "showAlerts" private field.(èÎ¡Íşÿÿÿÿ8ò£¯Ï¶-
+‰"squid:ClassVariableVisibilityCheck-"TMake btnWord1 a static final constant or non-public and provide accessors if needed.(îÆ¹™8ò£¯Ï¶-
+‰"squid:ClassVariableVisibilityCheck."TMake btnWord2 a static final constant or non-public and provide accessors if needed.(“ç8ò£¯Ï¶-
+‹"squid:ClassVariableVisibilityCheck2"VMake timerValue a static final constant or non-public and provide accessors if needed.(áâñó8ò£¯Ï¶-
+asquid:CallToDeprecatedMethodË",Remove this use of "Date"; it is deprecated.(ÑÔ¨°øÿÿÿÿ8ò£¯Ï¶-
+‡squid:S1157Â"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ûÕáşÿÿÿÿ8ò£¯Ï¶-
+“"squid:ClassVariableVisibilityCheck%"YMake tbChatMessage a static final constant or non-public and provide accessors if needed.(×“«€øÿÿÿÿ8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck&"[Make txtSelectedWord a static final constant or non-public and provide accessors if needed.(€—à£8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck*"XMake sldLineWidth a static final constant or non-public and provide accessors if needed.(Éêú¡8ò£¯Ï¶-
+Š"squid:ClassVariableVisibilityCheck3"PMake game a static final constant or non-public and provide accessors if needed.(§ª±üÿÿÿÿ8ò£¯Ï¶-
+ squid:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç¡æ8ò£¯Ï¶-
+Lsquid:S1604Í"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8ò£¯Ï¶-
+vsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À³¶’øÿÿÿÿ8ò£¯Ï¶-
+Lsquid:S1604‰"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ8ò£¯Ï¶-
+Qsquid:S1172Õ"2Remove this unused method parameter "actionEvent".(Î”ÀÙ8ò£¯Ï¶-
+Qsquid:S1172á"2Remove this unused method parameter "actionEvent".(ğãİ8ò£¯Ï¶-
+‡squid:S1157º"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¥˜ªÚøÿÿÿÿ8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck'"TMake btnLeave a static final constant or non-public and provide accessors if needed.(â©±óùÿÿÿÿ8ò£¯Ï¶-
+‡"squid:ClassVariableVisibilityCheck$"RMake lbChat a static final constant or non-public and provide accessors if needed.(¡¸ø8ò£¯Ï¶-
+Psquid:S1172¾"2Remove this unused method parameter "actionEvent".(¨—Å(8ò£¯Ï¶-
+Esquid:S1481C"'Remove this unused "gc" local variable.(˜­Š8ò£¯Ï¶-
+"squid:ClassVariableVisibilityCheck)"ZMake cpDrawingColor a static final constant or non-public and provide accessors if needed.(¬Ñ¥í8ò£¯Ï¶-

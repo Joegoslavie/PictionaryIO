@@ -1,0 +1,5 @@
+
+vsquid:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ùÅÊÿÿÿÿÿ8¢¥ãĞ¶-
+Jsquid:S1172Ş"&Remove these unused method parameters.(Ï½å»úÿÿÿÿ8¢¥ãĞ¶-
+Qsquid:S1135é"2Complete the task associated to this TODO comment.(êÄÓ²8¢¥ãĞ¶-
+‡squid:S1157º"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(óÇš˜ûÿÿÿÿ8¢¥ãĞ¶-

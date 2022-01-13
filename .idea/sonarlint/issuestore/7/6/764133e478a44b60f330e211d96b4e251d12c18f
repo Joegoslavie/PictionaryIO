@@ -1,0 +1,25 @@
+
+Usquid:S2629g"7Use the built-in formatting to construct this argument.(üµ©‚8İ»¯Ï¶-
+_squid:S3457g"AFormat specifiers should be used instead of string concatenation.(üµ©‚8İ»¯Ï¶-
+Zsquid:S2629["7Use the built-in formatting to construct this argument.(ÀºÈúúÿÿÿÿ8İ»¯Ï¶-
+Zsquid:S2696¢"6Make the enclosing method "static" or remove this set.(Ïò¢ûÿÿÿÿ8İ»¯Ï¶-
+dsquid:S3457Z"AFormat specifiers should be used instead of string concatenation.(Å­Åúÿÿÿÿ8İ»¯Ï¶-
+_squid:S3457a"AFormat specifiers should be used instead of string concatenation.(Û‹ĞÀ8İ»¯Ï¶-
+Ysquid:S3457Œ"AFormat specifiers should be used instead of string concatenation.(íğ¿Ö
+esquid:S3457¥"AFormat specifiers should be used instead of string concatenation.(“áÆúÿÿÿÿ8İ»¯Ï¶-
+”"squid:SwitchLastCaseIsDefaultCheckÙ"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÃÃëÇıÿÿÿÿ8İ»¯Ï¶-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖÀß‹
+Isquid:S1135–"2Complete the task associated to this TODO comment.(ì»­*
+Psquid:S1135ô"2Complete the task associated to this TODO comment.(†‚<8İ»¯Ï¶-
+dsquid:S3457["AFormat specifiers should be used instead of string concatenation.(ÀºÈúúÿÿÿÿ8İ»¯Ï¶-
+Tsquid:S2629ı"7Use the built-in formatting to construct this argument.(¥×¸ıÿÿÿÿ
+Ysquid:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8İ»¯Ï¶-
+esquid:S3457É"AFormat specifiers should be used instead of string concatenation.(“áÆúÿÿÿÿ8İ»¯Ï¶-
+Usquid:S2629a"7Use the built-in formatting to construct this argument.(Û‹ĞÀ8İ»¯Ï¶-
+¢%squid:RedundantThrowsDeclarationCheck›"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(¥ç¿œ8õüª¶-
+Osquid:S2629Œ"7Use the built-in formatting to construct this argument.(íğ¿Ö
+_squid:S3457T"AFormat specifiers should be used instead of string concatenation.(©Êëä8İ»¯Ï¶-
+^squid:S3457ı"AFormat specifiers should be used instead of string concatenation.(¥×¸ıÿÿÿÿ
+Tsquid:S2629˜"7Use the built-in formatting to construct this argument.(ÒŞ‰ãüÿÿÿÿ
+^squid:S3457˜"AFormat specifiers should be used instead of string concatenation.(ÒŞ‰ãüÿÿÿÿ
+Dsquid:S1170"!Make this final field static too.(úÂÜíıÿÿÿÿ8ùüâÏ¶-

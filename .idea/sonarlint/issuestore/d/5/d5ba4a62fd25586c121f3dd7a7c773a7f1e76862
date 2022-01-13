@@ -1,0 +1,14 @@
+
+˜squid:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÏŒ
+usquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(„¹…ÿÿÿÿÿ
+squid:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µíËÆÿÿÿÿÿ
+vsquid:S1450"ZRemove the "iConnection" field and declare it as a local variable in the relevant methods.(ú‡üùÿÿÿÿ
+Csquid:S1068",Remove this unused "messages" private field.(ÊÀß
+squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…çÍŠûÿÿÿÿ
+Ksquid:S1068"/Remove this unused "iConnection" private field.(ú‡üùÿÿÿÿ
+Lsquid:S2065"0Remove the "transient" modifier from this field.(ú‡üùÿÿÿÿ
+Lsquid:S2065"0Remove the "transient" modifier from this field.(±„‡®ÿÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢îéóıÿÿÿÿ
+Tsquid:S1155 ">Use isEmpty() to check whether the collection is empty or not.(¾–t
+Isquid:S11358"2Complete the task associated to this TODO comment.(µÉç
+lsquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…çÍŠûÿÿÿÿ

@@ -1,0 +1,4 @@
+
+Isquid:S1481"2Remove this unused "lobbySettings" local variable.(¥ìÈ©
+]squid:S1854"ARemove this useless assignment to local variable "lobbySettings".(„½†Øþÿÿÿÿ
+bsquid:HiddenFieldCheck"@Rename "lobbySettings" which hides the field declared at line 9.(¥ìÈ©

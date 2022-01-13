@@ -1,0 +1,8 @@
+
+asquid:S1854"DRemove this useless assignment to local variable "webSocketMessage".(ËÒ¸8äŒ»¨¶-
+gsquid:S1854"DRemove this useless assignment to local variable "webSocketMessage".(Úæôâùÿÿÿÿ8Ðþ¸¨¶-
+hsquid:S1192"KDefine a constant instead of duplicating this literal "jsonString" 3 times.(ËÒ¸8Âõ¿¨¶-
+Xsquid:S1481"5Remove this unused "webSocketMessage" local variable.(ÿ“¨ãþÿÿÿÿ8•Æ¹¨¶-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ø€º¨¶-
+rsquid:HiddenFieldCheck"DRename "webSocketMessage" which hides the field declared at line 12.(ÿ“¨ãþÿÿÿÿ8Ô…¼¨¶-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™Øû“

@@ -1,0 +1,14 @@
+
+‡"squid:ClassVariableVisibilityCheck"ZMake btnPrivateJoin a static final constant or non-public and provide accessors if needed.(Ñ€Ït
+˜squid:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆóşĞ
+‚"squid:ClassVariableVisibilityCheck"TMake lvLobbys a static final constant or non-public and provide accessors if needed.(ÆŒ
+Jsquid:S1068".Remove this unused "showAlerts" private field.(èÎ¡Íşÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"ZMake tfPrivateToken a static final constant or non-public and provide accessors if needed.(Í‘ÁÜ
+˜squid:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñú·ö
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õïˆº
+ƒ"squid:ClassVariableVisibilityCheck"UMake btnSearch a static final constant or non-public and provide accessors if needed.(É¹ŠÄ
+˜squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úôÃº
+‡"squid:ClassVariableVisibilityCheck"TMake tfSearch a static final constant or non-public and provide accessors if needed.(Ç«§€şÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‘İŸüÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"YMake btnCreateGame a static final constant or non-public and provide accessors if needed.(’®İøúÿÿÿÿ
+usquid:S1450"YRemove the "showAlerts" field and declare it as a local variable in the relevant methods.(èÎ¡Íşÿÿÿÿ

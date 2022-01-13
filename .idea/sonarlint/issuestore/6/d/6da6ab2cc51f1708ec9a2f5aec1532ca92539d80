@@ -1,0 +1,4 @@
+
+Msquid:S1481"*Remove this unused "lobby" local variable.(ýœ°ýùÿÿÿÿ8ìµÌ¨¶-
+fsquid:HiddenFieldCheck"8Rename "lobby" which hides the field declared at line 9.(ýœ°ýùÿÿÿÿ8ìµÌ¨¶-
+\squid:S1854"9Remove this useless assignment to local variable "lobby".(òþÃ”øÿÿÿÿ8ìµÌ¨¶-

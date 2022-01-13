@@ -1,0 +1,5 @@
+
+Usquid:S1854">Remove this useless assignment to local variable "linePoints".(ÔÚ 
+Fsquid:S1481"/Remove this unused "linePoints" local variable.(åê€
+`squid:HiddenFieldCheck">Rename "linePoints" which hides the field declared at line 13.(åê€
+_squid:UselessImportCheck"5Remove this unused import 'javax.sound.sampled.Line'.(·öë/8®›Ï¨¶-

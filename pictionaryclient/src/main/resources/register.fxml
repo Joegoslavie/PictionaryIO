@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="pnRegister" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #4240C4;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.RegisterController">
+   <children>
+      <TextField fx:id="tfEmail" layoutX="211.0" layoutY="131.0" promptText="Enter Email Here..." visible="false">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="tfUsername" layoutX="179.0" layoutY="174.0" prefHeight="26.0" prefWidth="243.0" promptText="Enter Username Here...">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </TextField>
+      <Button fx:id="btnRegister" layoutX="179.0" layoutY="274.0" mnemonicParsing="false" onAction="#btnRegisterPressed" prefHeight="26.0" prefWidth="243.0" style="-fx-background-color: #5bc0de;" text="Register" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </Button>
+      <PasswordField fx:id="pfPassword" layoutX="179.0" layoutY="207.0" prefHeight="26.0" prefWidth="243.0" promptText="Enter Password Here...">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </PasswordField>
+      <PasswordField fx:id="pfPasswordVerification" layoutX="179.0" layoutY="240.0" prefHeight="26.0" prefWidth="243.0" promptText="Enter Password Again...">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </PasswordField>
+      <Button fx:id="btnCancel" layoutX="260.0" layoutY="308.0" mnemonicParsing="false" onAction="#btnCancelPressed" prefHeight="26.0" prefWidth="81.0" style="-fx-background-color: #5bc0de;" text="Cancel" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="110.0" fitWidth="130.0" layoutX="228.0" layoutY="47.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@ProftaakIconTransparent.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="lblErrorMessage" layoutX="157.0" layoutY="313.0" textFill="RED" />
+   </children>
+</Pane>

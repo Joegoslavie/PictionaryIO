@@ -1,0 +1,11 @@
+
+Gsquid:S1481)")Remove this unused "game" local variable.(‡Àãï8şüÚ§¶-
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8¨€Ù§¶-
+esquid:HiddenFieldCheck+">Rename "lobbyShell" which hides the field declared at line 17.( Š»ûÿÿÿÿ
+gsquid:HiddenFieldCheck,"9Rename "lobby" which hides the field declared at line 16.(‘·­øÿÿÿÿ8şüÚ§¶-
+bsquid:S2259J"DA "NullPointerException" could be thrown; "rounds" is nullable here.(¬¦ö¡8÷ûğ§¶-
+hsquid:S2259H"EA "NullPointerException" could be thrown; "players" is nullable here.(¼ƒ¼ûÿÿÿÿ8‘Ùã§¶-
+asquid:HiddenFieldCheck)"8Rename "game" which hides the field declared at line 15.(‡Àãï8şüÚ§¶-
+nsquid:S2259I"PA "NullPointerException" could be thrown; "leaderboardEntries" is nullable here.(©ÒÇ8ÁŠæ§¶-
+dsquid:HiddenFieldCheck9";Rename "players" which hides the field declared at line 14.(ëó“ü8õ¢ã§¶-
+Vsquid:S1854/"8Remove this useless assignment to local variable "game".(­û‰Š8şüÚ§¶-
